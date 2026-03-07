@@ -1,0 +1,11 @@
+[project]
+name = "evolve-prompts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dspy>=3.1.3",
+    "dspy-ai>=3.1.3",
+    "python-dotenv>=1.0.0",
+]
